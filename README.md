@@ -30,7 +30,7 @@ can be expressed as equation (1)
 
 <p align="center">
   <img src='eye-blink.PNG' />
-  <figcaption>Fig. 2 : Eye aspect ratio falls when the eye blink.</figcaption>
+  Fig. 2 : Eye aspect ratio falls when the eye blink.
 </p>
 <figure align="center">
   <img src="eye-blink.PNG" />
