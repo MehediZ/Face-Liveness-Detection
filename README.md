@@ -121,8 +121,7 @@ Proposed Model | 4.56
 ## Prerequisite
 * Pytorch 1.1
 * Python 3.6
-
-#### The pretrain model can be found <a href="https://drive.google.com/open?id=1V3F734oa_29SLLvwe6gGgjzg65zP86zl">here</a>
+#### Github repository is <a href="https://github.com/MehediZ/face-liveness-detection">here</a> and the pretrain model can be found <a href="https://drive.google.com/open?id=1V3F734oa_29SLLvwe6gGgjzg65zP86zl">here</a>
 
 
 
