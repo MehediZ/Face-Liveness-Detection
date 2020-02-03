@@ -30,7 +30,7 @@ can be expressed as equation (1)
 
 <p align="center">
   <img src="eye-blink.PNG" />
-  <figcaption>Fig. 2 : Eye aspect ratio falls when the eye blink.</figcaption>
+  <figcaption align="center">Fig. 2 : Eye aspect ratio falls when the eye blink.</figcaption>
 </p>
 
 In Fig. 2,P1 to P5 indicate the landmark of eye. When the eye blinked the aspect ratio falls, so this detect that the face
