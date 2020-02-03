@@ -90,8 +90,8 @@ Proposed Model | 4.56
 ## Conclusion
 A more accurate model with two stages of face liveness detection with real time analysis is proposed in this paper.The key of the success is to share the load of liveness detection among the two stages. If we can add more proper stages, then the accuracy of the model may also increase. To choose proper stages for liveness detection, every type of spoofing attack should be analyzed properly to find their unique properties. Based on their property, the stages should be designed. By using analogy, more robust and accurate model for face liveness detection can be designed.
 ## Real Time Output
-<a href="https://youtu.be/AsztKgsm2CU">1. Photo Attack</a>
-<a href="https://youtu.be/OrxPr2bmgS8">2. Video Attack</a>
+* <a href="https://youtu.be/AsztKgsm2CU">Photo Attack</a>
+* <a href="https://youtu.be/OrxPr2bmgS8">Video Attack</a>
 ## Prerequisite
 * Pytorch 1.1
 * Python 3.6
