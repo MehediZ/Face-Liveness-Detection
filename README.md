@@ -71,6 +71,7 @@ have been plotted as shown is Fig. 4(a) and 4(b).
 </figure>
 
 
+
 #### Table 1: Performace Comparision of the Proposed Model
 
 Method | EER (%)
