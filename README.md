@@ -50,7 +50,7 @@
 </p>
 
 
-<p align="center">
+<p>
   <img src='full_algorithm_1.png' />
   Fig. 3 : Algorithm for detect photo of a person.
 </p>
