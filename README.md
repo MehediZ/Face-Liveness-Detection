@@ -15,7 +15,6 @@ shows the proposed methodology.
 
 <p align="center">
   <img src='Methodology.png' />
-  </br>
   Fig. 1 : Two stage protection to prevent spoofing attack
 </p>
 
@@ -31,7 +30,6 @@ can be expressed as equation (1)
 
 <p align="center">
   <img src='eye-blink.PNG' />
-  </br>
   Fig. 2 : Eye aspect ratio falls when the eye blink.
 </p>
 
@@ -40,7 +38,6 @@ is blinked. So in summary, when video is taken from Logitech C310 Webcam, at fir
 
 <p align="center">
   <img src='full_algorithm_1.png' />
-  </br>
   Fig. 3 : Algorithm for detect photo of a person.
 </p>
 
@@ -52,7 +49,6 @@ make different image from the same image. Face Augmentation increase the accurac
 
 <p align="center">
   <img src='full_algorithm_2.png' />
-  </br>
   Fig. 3 : Algorithm to detect the real person, his video and mask
 </p>
 
