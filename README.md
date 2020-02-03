@@ -115,15 +115,13 @@ Proposed Model | 4.56
   using analogy, more robust and accurate model for face liveness detection can be designed.
 </p>
 
-## Real Time Output
-* <a href="https://youtu.be/AsztKgsm2CU">Photo Attack</a>
-* <a href="https://youtu.be/OrxPr2bmgS8">Video Attack</a>
 ## Prerequisite
 * Pytorch 1.1
 * Python 3.6
-#### Github repository is <a href="https://github.com/MehediZ/face-liveness-detection">here</a> and the pretrain model can be found <a href="https://drive.google.com/open?id=1V3F734oa_29SLLvwe6gGgjzg65zP86zl">here</a>
-
-
+## Github repository is <a href="https://github.com/MehediZ/face-liveness-detection">here</a> and the pretrain model can be found <a href="https://drive.google.com/open?id=1V3F734oa_29SLLvwe6gGgjzg65zP86zl">here</a>
+## Real Time Output
+* <a href="https://youtu.be/AsztKgsm2CU">Photo Attack</a>
+* <a href="https://youtu.be/OrxPr2bmgS8">Video Attack</a>
 
 ## If any portion of this research helps anyones research, please cite the following paper.
 <p>
