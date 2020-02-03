@@ -28,10 +28,10 @@ can be expressed as equation (1)
 
 ![equation](equation.PNG)
 
-<figure align="center">
+<p align="center">
   <img src="eye-blink.PNG" />
   <figcaption>Fig. 2 : Eye aspect ratio falls when the eye blink.</figcaption>
-</figure>
+</p>
 
 In Fig. 2,P1 to P5 indicate the landmark of eye. When the eye blinked the aspect ratio falls, so this detect that the face
 is blinked. So in summary, when video is taken from Logitech C310 Webcam, at first the face is detected as Region of Interest (ROI) and then detect is eye blink or not? If not blink then the program shows the face as a fake face. If the face blinked, then the face will send to deep learning based stage for further investigation. The whole stage can be easily understood from the following Fig 3.
