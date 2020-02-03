@@ -13,9 +13,9 @@ for further analysis. At second stage, the blinked face is passed through the CN
 Eye blink can consider as the switch of CNN as face will pass through the CNN if and only if the eye is blinked. Fig. 1
 shows the proposed methodology.
 
-<p align="center">
+<p>
   <img src='Methodology.png' />
-  Fig. 1 : Two stage protection to prevent spoofing attack
+  <figcaption>Fig. 1 : Two stage protection to prevent spoofing attack.</figcaption>
 </p>
 
 
@@ -28,9 +28,9 @@ can be expressed as equation (1)
 
 ![equation](equation.PNG)
 
-<p align="center">
+<p>
   <img src="eye-blink.PNG" />
-  <figcaption align="center">Fig. 2 : Eye aspect ratio falls when the eye blink.</figcaption>
+  <figcaption>Fig. 2 : Eye aspect ratio falls when the eye blink.</figcaption>
 </p>
 
 In Fig. 2,P1 to P5 indicate the landmark of eye. When the eye blinked the aspect ratio falls, so this detect that the face
@@ -49,7 +49,7 @@ make different image from the same image. Face Augmentation increase the accurac
 
 <p align="center">
   <img src='full_algorithm_2.png' />
-  Fig. 3 : Algorithm to detect the real person, his video and mask
+  Fig. 4 : Algorithm to detect the real person, his video and mask
 </p>
 
 ## Result and Analysis
